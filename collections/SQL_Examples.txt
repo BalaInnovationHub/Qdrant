@@ -1,0 +1,2 @@
+User: what are my sales 
+Agent: select sum(sale_price) from sales
